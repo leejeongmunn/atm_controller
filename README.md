@@ -25,4 +25,11 @@ Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
     3. First, it checks pin_number is valid. If you make mistake five times, message will be displayed, and program will be end.
     4. If pin_number is valid, you can choose options between Check Balance, Deposit,  Withdraw, Exit.
 
-
+## Run
+    1. Clone this repo.
+        https://github.com/leejeongmunn/atm_controller.git
+    2. Run Code
+        """
+        python ATM.py
+        """
+    3. Try various cases
