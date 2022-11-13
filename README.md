@@ -29,7 +29,7 @@ Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
     1. Clone this repo.
         https://github.com/leejeongmunn/atm_controller.git
     2. Run Code
-        """
+        ``` 
         python ATM.py
-        """
+        ``` 
     3. Try various cases
